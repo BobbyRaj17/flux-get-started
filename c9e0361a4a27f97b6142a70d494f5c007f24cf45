@@ -1,0 +1,1 @@
+{"jobID":"e98b6a14-1de9-1d76-c7d2-aa41d1d93399","spec":{"type":"policy","cause":{"Message":"","User":"Bobby Raj \u003cbobbyraj007@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
